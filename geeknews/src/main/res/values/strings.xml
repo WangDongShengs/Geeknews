@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Geeknews</string>
+    <string name="open">开始</string>
+    <string name="close">结束</string>
+</resources>
